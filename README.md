@@ -21,7 +21,7 @@ Clone to your local device
 Create a branch & implement changes
 Submit a pull request
 
-The moment for action has arrived. A resilient future must be constructed amidst uncertainty. Contributions from your kind are essential. 💪
+The moment for action has arrived. A resilient future must be constructed amidst uncertainty. Contributions from your kind are essential. 
 
 #PigeonNet #OpenSource #Decentralized #SecureCommunication #TechForGood 
 ## Call for Contributions
