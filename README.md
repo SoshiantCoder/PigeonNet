@@ -20,6 +20,7 @@ In many parts of the world, governments restrict access to the internet and trad
 - **Mesh Networking**: To allow devices to connect and relay messages without a central server.
 - **Encryption Protocols**: Implement end-to-end encryption using established cryptographic methods.
 - **Mobile Application Frameworks**: Use frameworks like React Native or Flutter for cross-platform development.
+- **LoRa???
 
 ## Contribution Guidelines
 We welcome contributions from developers, designers, and anyone interested in helping build PigeonNet. Here’s how you can get involved:
