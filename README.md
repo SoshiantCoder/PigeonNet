@@ -1,3 +1,6 @@
+## Call for Contributions
+PigeonNet is an open-source project that relies on the contributions of passionate individuals. If you are interested in helping us build a secure communication system, we welcome your input! Whether you are a developer, designer, or simply someone who believes in the mission, we need each other.
+
 # PigeonNet
 
 ## Overview
