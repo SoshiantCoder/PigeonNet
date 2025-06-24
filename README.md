@@ -37,7 +37,7 @@ In many parts of the Earth, your governments restrict access to the internet and
     Mesh Networking
     Encryption Protocols
     Mobile Application Frameworks
-    LoRa???
+    RF
 
 Contribution Guidelines
 
